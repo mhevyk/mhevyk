@@ -4,56 +4,40 @@ I'm confident you'll find a wealth of interesting things here! 😉
 
 ## About me
 
-👨‍💻 My name is <strong><u>Maksym Hevyk</u></strong>. I am a junior Frontend/Fullstack developer
+👨‍💻 My name is **Maksym Hevyk**. I am a junior Frontend/Fullstack developer.
 
-I am motivated, hardworking and receptive problem-solver with attention to detail. I am not afraid of challenging tasks and at the same time I always think of the most optimal solutions to solve the business problem. I like to communicate with people and help them if they need to
+I am a motivated, hardworking, and receptive problem-solver with attention to detail. I am not afraid of challenging tasks, and at the same time, I always think of the most optimal solutions to solve business problems. I enjoy communicating with people and helping them if they need it.
 
 ## Technology stack
 
-<div style="display:flex;gap:30px;margin-bottom:10px;">
-  <div>
-    <p>Key technologies</p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react&theme=light" />
-  </div>
+### Key technologies
 
-  <div>
-    <p>Design solutions</p>
-    <img src="https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,sass,bootstrap&theme=light" />
-  </div>
-</div>
+![HTML, CSS, JS, TypeScript, React](https://skillicons.dev/icons?i=html,css,js,typescript,react&theme=light)
 
-<div style="display:flex;gap:30px;margin-bottom:10px;">
-  <div>
-    <p>Tools</p>
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,notion&theme=light" />
-  </div>
+### Design solutions
 
-  <div>
-    <p>Testing</p>
-    <div style="display:flex;align-items:center;gap:9px;">
-      <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=light" />
-      <div style="display:inline-block;background-color: white;width:48px;height:48px;border-radius:10px;box-sizing:border-box;padding:5px;">
-        <img src="assets/images/technologies/stryker.png" style="width:100%;height:100%;object-fit:contain;" />
-      </div>
-      <img src="https://skillicons.dev/icons?i=gherkin&theme=light" />
-    </div>
-  </div>
-</div>
+![Material UI, Styled Components, Tailwind, SASS, Bootstrap](https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,sass,bootstrap&theme=light)
 
-<div style="display:flex;gap:30px;margin-bottom:10px;">
-  <div>
-    <p>Backend</p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb&theme=light" />
-  </div>
+### Tools
 
-  <div>
-    <p>Other</p>
-    <div style="display:flex;align-items:center;gap:9px;">
-    <img src="https://skillicons.dev/icons?i=github,redux,webpack&theme=light" />
-      <div style="display:inline-block;background-color:white;width:48px;height:48px;border-radius:10px;box-sizing:border-box;">
-        <img src="assets/images/technologies/zustand.png" style="width:100%;height:100%;object-fit:contain;" />
-      </div>
-      <img src="https://skillicons.dev/icons?i=vite&theme=light" />
-    </div>
-  </div>
-</div>
+![VSCode, WebStorm, Bash, Postman, Notion](https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,notion&theme=light)
+
+### Testing
+
+![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=light)
+<span style="display:inline-block;width:48px;height:48px;background-color:white;border-radius:12px;margin:0 4px;">
+    <img src="assets/images/technologies/stryker.png" alt="Stryker" style="width:100%;height:100%;object-fit:contain;">
+</span>
+![Gherkin](https://skillicons.dev/icons?i=gherkin&theme=light)
+
+### Backend
+
+![Node.js, Express, GraphQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb&theme=light)
+
+### Other
+
+![GitHub, Redux, Webpack](https://skillicons.dev/icons?i=github,redux,webpack&theme=light)
+<span style="display:inline-block;width:48px;height:48px;background-color:white;border-radius:12px;margin:0 4px;">
+    <img src="assets/images/technologies/zustand.png" alt="Zustand" style="width:100%;height:100%;object-fit:contain;">
+</span>
+![Vite](https://skillicons.dev/icons?i=vite&theme=light)
