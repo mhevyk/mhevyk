@@ -10,26 +10,4 @@ I am a motivated, hardworking, and receptive problem-solver with attention to de
 
 ## Technology stack
 
-### Key technologies
-
-![HTML, CSS, JS, TypeScript, React](https://skillicons.dev/icons?i=html,css,js,typescript,react&theme=light)
-
-### Design solutions
-
-![Material UI, Styled Components, Tailwind, SASS, Bootstrap](https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,sass,bootstrap&theme=light)
-
-### Tools
-
-![VSCode, WebStorm, Bash, Postman, Notion](https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,notion&theme=light)
-
-### Backend
-
-![Node.js, Express, GraphQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb&theme=light)
-
-### Testing
-
-![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress,gherkin&theme=light)
-
-### Other
-
-![GitHub, Redux, Webpack](https://skillicons.dev/icons?i=github,redux,webpack,vite&theme=light)
+![HTML, CSS, JS, TypeScript, React](https://skillicons.dev/icons?i=html,css,js,typescript,react,materialui,styledcomponents,tailwind,sass,bootstrap,github,redux,webpack,vite,jest,vitest,cypress,gherkin,nodejs,express,graphql,postgres,mongodb,vscode,webstorm,bash,postman,notion&theme=light&perline=7)
