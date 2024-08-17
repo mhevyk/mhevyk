@@ -22,22 +22,14 @@ I am a motivated, hardworking, and receptive problem-solver with attention to de
 
 ![VSCode, WebStorm, Bash, Postman, Notion](https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,notion&theme=light)
 
-### Testing
-
-![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=light)
-<span style="display:inline-block;width:48px;height:48px;background-color:white;border-radius:12px;margin:0 4px;">
-    <img src="assets/images/technologies/stryker.png" alt="Stryker" style="width:100%;height:100%;object-fit:contain;">
-</span>
-![Gherkin](https://skillicons.dev/icons?i=gherkin&theme=light)
-
 ### Backend
 
 ![Node.js, Express, GraphQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb&theme=light)
 
+### Testing
+
+![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress,gherkin&theme=light)
+
 ### Other
 
-![GitHub, Redux, Webpack](https://skillicons.dev/icons?i=github,redux,webpack&theme=light)
-<span style="display:inline-block;width:48px;height:48px;background-color:white;border-radius:12px;margin:0 4px;">
-    <img src="assets/images/technologies/zustand.png" alt="Zustand" style="width:100%;height:100%;object-fit:contain;">
-</span>
-![Vite](https://skillicons.dev/icons?i=vite&theme=light)
+![GitHub, Redux, Webpack](https://skillicons.dev/icons?i=github,redux,webpack,vite&theme=light)
