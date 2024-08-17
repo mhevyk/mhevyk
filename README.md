@@ -10,4 +10,4 @@ I am a motivated, hardworking, and receptive problem-solver with attention to de
 
 ## Technology stack
 
-![HTML, CSS, JS, TypeScript, React](https://skillicons.dev/icons?i=html,css,js,typescript,react,materialui,styledcomponents,tailwind,sass,bootstrap,github,redux,webpack,vite,jest,vitest,cypress,gherkin,nodejs,express,graphql,postgres,mongodb,vscode,webstorm,bash,postman,notion&theme=light&perline=7)
+![HTML, CSS, JS, TypeScript, React](https://skillicons.dev/icons?i=html,css,js,typescript,react,materialui,styledcomponents,tailwind,sass,bootstrap,github,redux,webpack,vite,jest,vitest,cypress,gherkin,nodejs,express,graphql,postgres,mongodb,vscode,webstorm,bash,postman,notion&theme=light&perline=14)
